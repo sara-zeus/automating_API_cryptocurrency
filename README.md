@@ -20,6 +20,8 @@ This venture demonstrates Python's capability in automating and revolutionizing 
 | Pandas | Data cleaning and organization |
 | Matplotlib | Data visualization and trend analysis |
 
+![Python and Django](https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif)
+
 ## Insights and Conclusions
 The project underscores the synergy of API automation, meticulous data processing, and advanced visualization techniques. This comprehensive approach:
 - Delivers an in-depth understanding of the cryptocurrency market's current landscape.
