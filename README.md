@@ -3,6 +3,9 @@
 ## Introduction
 In an endeavor to explore the dynamic world of cryptocurrencies, this project harnesses the power of APIs for automating data acquisition. Utilizing the [CoinMarketCap API](https://coinmarketcap.com/), this initiative facilitates the real-time retrieval of cryptocurrency data, integrating seamlessly into a Python-based analytical workflow.
 
+![Cryptocurrency Analysis](https://media.giphy.com/media/3ohs7HdhQA4ffttvrO/giphy.gif)
+
+
 ## Project Overview
 This venture demonstrates Python's capability in automating and revolutionizing cryptocurrency analysis. Key highlights:
 - **Real-time Data Retrieval**: Using CoinMarketCap's API for up-to-the-minute cryptocurrency data.
